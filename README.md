@@ -19,7 +19,7 @@ A Windows application that extracts file paths from text files and verifies thei
 2. **Drop .txt files** onto the app OR place them in the same directory
 3. **Results appear automatically** - sorted by security priority
 
-## 📊 Signature Status Categories (30+ Types)
+## 📊 Signature Status Categories (40+ Types)
 
 ### 🔴 **HIGH PRIORITY** (Shown First)
 | Status | Description |
